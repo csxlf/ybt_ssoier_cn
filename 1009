@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a,b,c;
+    int d;
+    cin >> a >> b;
+    d=a/b; //当参与除法运算的除数和被除数是整数时，商自动取整，小数部分被截断
+    c=a % b; //"%"为求余数的运算符
+    cout << d <<" "<<c << endl;
+    return 0;
+}
