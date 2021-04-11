@@ -1,0 +1,12 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main() {
+    double a,b,c,d,x; 
+    double fx;
+    cin >> x >> a >> b >> c >> d;
+    fx=a*x*x*x+b*x*x+c*x+d; //如果原数为整数，但计算结果可能包含小数，那么定义变量数据类型时，最好按照最终结果的类型来定义
+    cout <<setiosflags(ios::fixed)<<setprecision(7)<< fx << endl;
+    return 0;
+}
