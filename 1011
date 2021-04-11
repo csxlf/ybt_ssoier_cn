@@ -1,0 +1,12 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main() {
+    float a,b;
+    float d;
+    cin >> a >> b;
+    d=b*100/a; 
+    cout <<setiosflags(ios::fixed)<<setprecision(3)<< d << "%" << endl;  //不知道如何控制百分数输出形式的方式：原数*100，后面增加“%”
+    return 0;
+}
