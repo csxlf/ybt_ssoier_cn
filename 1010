@@ -1,0 +1,12 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main() {
+    float a,b; 
+    float d;
+    cin >> a >> b;
+    d=a/b; //变量a,b的数据类型如果改为int，d的值为多少呢？
+    cout <<setiosflags(ios::fixed)<<setprecision(9)<< d << endl;
+    return 0;
+}
