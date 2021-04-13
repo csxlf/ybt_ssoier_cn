@@ -1,0 +1,11 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+int main() {
+    double z;
+    double x,a,y,b;
+    cin >> x >> a >> y >> b;
+    z=(y*b-x*a)/(b-a);
+    cout<<setiosflags(ios::fixed)<<setprecision(2) << z << endl;
+    return 0;
+}
