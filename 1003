@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    using std::cout;
+    cout.setf(std::ios::right);
+    int a,b,c;
+    cin >> a >> b >> c;
+    cout.width(8);
+    cout << a << " ";
+    cout.width(8);
+    cout << b << " ";
+    cout.width(8);
+    cout << c << endl;
+    return 0;
+}
