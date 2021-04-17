@@ -6,6 +6,8 @@
  - [变量、数据类型、输入](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/002.md)
  - [运算符和表达式](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/003.md)
  - [数据类型](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/004.md)
+ - [if选择结构](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/005.md)
+ - [for循环结构](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/006.md)
 
 
 ## 入门程序清单
