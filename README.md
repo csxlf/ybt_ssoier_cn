@@ -1,7 +1,7 @@
 
 # [信息学奥赛一本通程序集](http://ybt.ssoier.cn:8088/index.php)
 
-# 入门级程序清单
+# 入门程序清单
 
  - [1000	入门测试题目](https://github.com/csxlf/ybt_ssoier_cn/blob/main/1000)
  - [1001	Hello,World!](https://github.com/csxlf/ybt_ssoier_cn/blob/main/1001) 
