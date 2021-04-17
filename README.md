@@ -9,8 +9,7 @@
 	* 输入样例1：123 456 789
 	* 输入样例2：888888888 3332 8888
 	* 输入样例3：1000000000 43222 89
-	* 输入样例4：8888888888 55323 99
- - [1003	对齐输出](https://github.com/csxlf/ybt_ssoier_cn/blob/main/1003) 
+	* 输入样例4：8888888888 55323 99 
  - [1004	字符三角形](https://github.com/csxlf/ybt_ssoier_cn/blob/main/1004) 
  - [1006	A+B问题](https://github.com/csxlf/ybt_ssoier_cn/blob/main/1006)
  - [1007	计算(a+b)×c的值](https://github.com/csxlf/ybt_ssoier_cn/blob/main/1007) 
