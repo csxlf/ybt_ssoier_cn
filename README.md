@@ -8,6 +8,11 @@
  - [数据类型](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/004.md)
  - [if选择结构](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/005.md)
  - [for循环结构](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/006.md)
+ - [一维数组](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/007.md)
+ - [while循环结构](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/008.md)
+ - [循环嵌套](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/009.md)
+ - [二维数组](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/010.md)
+ - [字符数组与字符串](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/011.md)
 
 
 ## 入门程序清单
