@@ -20,7 +20,7 @@ int main(){
             h=a[i][j]+b[i][j];
             printf("%d ",h);
         }
-        11printf("\n");
+        printf("\n");
     }
     return 0;
 }
