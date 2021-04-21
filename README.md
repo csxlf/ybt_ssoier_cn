@@ -13,6 +13,7 @@
  - [循环嵌套](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/009.md)
  - [二维数组](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/010.md)
  - [字符数组与字符串](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/011.md)
+ - [常用数学函数库](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/012.md)
 
 
 ## 入门程序清单
