@@ -15,6 +15,7 @@
  - [字符数组与字符串](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/011.md)
  - [常用数学函数库](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/012.md) 
  - [自定义函数](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/013.md)
+ - [变量作用域](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/014.md)
 
 
 ## 入门程序清单
