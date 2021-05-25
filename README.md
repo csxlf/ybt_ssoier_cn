@@ -16,6 +16,8 @@
  - [常用数学函数库](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/012.md) 
  - [自定义函数](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/013.md)
  - [变量作用域](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/014.md)
+ - [递归](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/015.md)
+
 
 
 ## 入门程序清单
