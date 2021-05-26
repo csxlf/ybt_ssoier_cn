@@ -17,6 +17,7 @@
  - [自定义函数](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/013.md)
  - [变量作用域](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/014.md)
  - [递归](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/015.md)
+ - [将数组传递给函数](https://github.com/csxlf/ybt_ssoier_cn/blob/main/ABC/016.md)
 
 
 
